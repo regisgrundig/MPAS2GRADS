@@ -1,4 +1,4 @@
-dset ^latlon2.nc
+dset ^latlon2d.nc
 title xxx
 undef 9.999e+20
 dtype netcdf

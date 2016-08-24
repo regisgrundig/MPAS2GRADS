@@ -28,7 +28,7 @@ edit line 17
      fout  = addfile ("latlon2d.nc", "c")
      
  
- ###STEP 2 
+###STEP 2 
  run script ncl mpas_to_grads2d.ncl 
 
 ncl mpas_to_grads2d.ncl 
